@@ -8,7 +8,7 @@ public class Income {
 
         double totalTax = 0;
 
-        for (int i = 0; i < income.length; i++) {
+        for (int i = 0; i < income.length; i++){
 
             double tax;
 
