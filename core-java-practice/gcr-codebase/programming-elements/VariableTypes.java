@@ -15,7 +15,7 @@ public class VariableTypes{
     System.out.println("m2");
     System.out.println(x);
     System.out.println(y);
-    System.out.println(this.y); //current method for object specify
+    System.out.println(this.y); //current method for object specify, 
   }
 
   public static void main(String[] args){
@@ -32,3 +32,5 @@ public class VariableTypes{
     obj.m2();
   }
 }
+
+//non static class me non static variable direct run krega 
