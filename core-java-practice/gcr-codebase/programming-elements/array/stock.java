@@ -46,7 +46,7 @@ public static void searchItem(int[] arr, int target){
 
   for(int i=0; i<arr.length; i++){
     if(arr[i] == target){
-      System.out.println("Item found at index: "+ );
+      System.out.println("Item found at index: ");
       found = true;
       break;
     }
