@@ -1,0 +1,1 @@
+import java.util.Scanner; class TriangleArea { public static void main(String[] args){ Scanner input=new Scanner(System.in); double base=input.nextDouble(); double height=input.nextDouble(); System.out.println(0.5*base*height); } }
