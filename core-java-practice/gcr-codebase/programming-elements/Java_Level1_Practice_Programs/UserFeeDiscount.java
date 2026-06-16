@@ -1,1 +1,10 @@
-import java.util.Scanner; class UserFeeDiscount { public static void main(String[] args){ Scanner input=new Scanner(System.in); double fee=input.nextDouble(); double discount=input.nextDouble(); System.out.println(fee-(fee*discount/100)); } }
+import java.util.Scanner;
+
+class UserFeeDiscount {
+  public static void main(String[] args) {
+    Scanner input = new Scanner(System.in);
+    double fee = input.nextDouble();
+    double discount = input.nextDouble();
+    System.out.println(fee - (fee * discount / 100));
+  }
+}

@@ -1,1 +1,9 @@
-import java.util.Scanner; class DistanceConverter { public static void main(String[] args){ Scanner input=new Scanner(System.in); double feet=input.nextDouble(); System.out.println(feet/3); } }
+import java.util.Scanner;
+
+class DistanceConverter {
+  public static void main(String[] args) {
+    Scanner input = new Scanner(System.in);
+    double feet = input.nextDouble();
+    System.out.println(feet / 3);
+  }
+}

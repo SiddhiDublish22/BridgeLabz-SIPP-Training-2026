@@ -1,1 +1,9 @@
-import java.util.Scanner; class UserKmToMiles { public static void main(String[] args){ Scanner input=new Scanner(System.in); double km=input.nextDouble(); System.out.println(km/1.6); } }
+import java.util.Scanner;
+
+class UserKmToMiles {
+  public static void main(String[] args) {
+    Scanner input = new Scanner(System.in);
+    double km = input.nextDouble();
+    System.out.println(km / 1.6);
+  }
+}
