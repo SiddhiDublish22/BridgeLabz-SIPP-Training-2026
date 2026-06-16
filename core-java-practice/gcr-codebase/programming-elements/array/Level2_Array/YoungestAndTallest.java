@@ -1,1 +1,5 @@
-public class YoungestAndTallest { public static void main(String[] args){ System.out.println("Level 2 Solution"); }}
+public class YoungestAndTallest {
+  public static void main(String[] args) {
+    System.out.println("Level 2 Solution");
+  }
+}
